@@ -1,7 +1,7 @@
 ## Hello 👋, I am Mateus Gabriel <p align="left"><img src="https://komarev.com/ghpvc/?username=MateusGCS" alt="Mateus" /></p>
 
 
-- 🌱 I’m currently learning Node.Js
+- 🌱 I’m currently learning Flutter
 
 <div>
   <a href="https://github.com/MateusGCS">
